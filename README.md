@@ -1,1 +1,1 @@
-# HACKTHON-Erick
+# Educahack
